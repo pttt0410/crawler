@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web-crawler</title>
+</head>
+<body>
+
+<center>
+<h3> Thông tin </h3>
+<table border = 1 width="900" >
+<tr>
+	<td>
+		Tên doanh nghiệp
+	</td>
+	<td>
+		MST
+	</td>
+	<td>
+		Tỉnh/ thành phố
+	</td>
+	<td>
+		Điện thoại
+	</td>
+</tr>
+<%for (var i = 0; i < arr.length; i++) {%>
+<tr> 
+	<td>
+					<p><%= arr[i]%></p>
+	</td>
+	<td>
+					<p><%= arr1[i]%></p>
+	</td>
+	<td>
+					<p><%= arr2[i]%></p>
+	</td>
+	<td>		
+					<p><%= arr3[i]%></p>
+</tr>
+<%}%>
+		
+</table>
+</center>
+</body>
+</html>
+
+
