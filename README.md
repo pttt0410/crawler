@@ -12,8 +12,6 @@ Web crawler automatically scan the Internet attempting to glean context and mean
  
 ** Step 2: Install libariries (open git)**
   
-  - Case 1:
-  
     npm install express --save
   
     npm install cheerio --save
