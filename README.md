@@ -4,13 +4,13 @@ Web crawler automatically scan the Internet attempting to glean context and mean
 
 ### Installing
 
-** Step 1: Download source code **
+**Step 1: Download source code**
 
  - Case 1: Drectly download from https://github.com/pttt0410/crawler
  
  - Case 2: Open git: git clone https://github.com/pttt0410/web-crawler.git
  
-** Step 2: Install libariries (open git)**
+**Step 2: Install libariries (open git)**
 
 Case 1:
   
@@ -26,11 +26,11 @@ Case 2: (automatically intalls all npm)
     
     npm install 
  
-** Step 3: Run **
+**Step 3: Run**
 
     npm start
   
-** Step 4: Access web browers (Chorme/ CocCoc/ Internet Explore)**
+**Step 4: Access web browers (Chorme/ CocCoc/ Internet Explore)**
   
  http://localhost:3003/
   
