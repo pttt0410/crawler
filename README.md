@@ -11,6 +11,7 @@ Web crawler automatically scan the Internet attempting to glean context and mean
  - Case 2: Open git: git clone https://github.com/pttt0410/web-crawler.git
  
 ** Step 2: Install libariries (open git)**
+Case 1:
   
     npm install express --save
   
@@ -20,7 +21,7 @@ Web crawler automatically scan the Internet attempting to glean context and mean
     
     npm install ejs --save
     
-  - Case 2: (automatically intalls all npm)
+Case 2: (automatically intalls all npm)
     
     npm install 
  
