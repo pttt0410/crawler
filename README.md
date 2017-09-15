@@ -23,9 +23,10 @@ Web crawler automatically scan the Internet attempting to glean context and mean
   
   - Case 1: npm start
   - Case 2: node index.js
+  
  **Step 4: Access web browers (Chorme/ CocCoc/ Internet Explore)
   
-  localhost:3003/ 
+ http://localhost:3003/
   
   
  ### Feature
