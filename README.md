@@ -4,9 +4,10 @@ Web crawler automatically scan the Internet attempting to glean context and mean
 ### Installing
 
 **Step 1 Download source code
-  *Case1: Drectly download from https://github.com/pttt0410/crawler
+
+  * Case 1: Drectly download from https://github.com/pttt0410/crawler
+  * Case 2: Open git: git clone https://github.com/pttt0410/web-crawler.git
   
-  *Case2: Open git: git clone https://github.com/pttt0410/web-crawler.git
 ### Feature
 Get all information from website
 ![](https://github.com/pttt0410/crawler/blob/master/image/1.png) 
