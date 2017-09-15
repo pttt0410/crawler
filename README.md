@@ -13,17 +13,23 @@ Web crawler automatically scan the Internet attempting to glean context and mean
 ** Step 2: Install libariries (open git)
   
   - Case 1:
+  
     npm install express --save
+  
     npm install cheerio --save
+    
     npm install request --save
+    
     npm install ejs --save
     
   - Case 2: (automatically intalls all npm)
+    
     npm install 
  
 ** Step 3: 
   
   - Case 1: npm start
+  
   - Case 2: node index.js
   
 ** Step 4: Access web browers (Chorme/ CocCoc/ Internet Explore)
