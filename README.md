@@ -10,7 +10,7 @@ Web crawler automatically scan the Internet attempting to glean context and mean
  
  - Case 2: Open git: git clone https://github.com/pttt0410/web-crawler.git
  
-**Step 2: Install libariries (open git)**
+**Step 2: Install libaries (open git)**
 
 Case 1:
   
